@@ -1,5 +1,8 @@
 A game of tenzies from a Scrimba react course.
 
+URL: https://darren0602.github.io/tenzies  
+Hosted via GitHub Pages
+
 Instructions:  
 Roll until all dice are the same.  
 Click each die to freeze it at its current value between rolls.
