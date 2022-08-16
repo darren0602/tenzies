@@ -9,6 +9,6 @@ Click each die to freeze it at its current value between rolls.
 
 Some features added worth noting:  
 a. Roll counter utilizing a simple state counter each time roll button is clicked.  
-b. Best roll record utilizing localStorage to show the lowest number of rolls to achieve tenzies.
+b. Best roll record utilizing localStorage to show the lowest number of rolls to achieve tenzies across browser sessions.
 
 Created by: Darren Teoh
